@@ -1,6 +1,6 @@
 ---
 name: "get_submission_status"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Query status of running job"
 enabled: true
 entry_point: "get_submission_status.py"

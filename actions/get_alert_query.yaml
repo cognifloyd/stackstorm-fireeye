@@ -1,6 +1,6 @@
 ---
 name: "get_alert_query"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Request existing alert profiles with optional filters"
 enabled: true
 entry_point: "get_alert_query.py"
