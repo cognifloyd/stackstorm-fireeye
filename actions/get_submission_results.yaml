@@ -1,6 +1,6 @@
 ---
 name: "get_submission_results"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Query results of completed job"
 enabled: true
 entry_point: "get_submission_results.py"
