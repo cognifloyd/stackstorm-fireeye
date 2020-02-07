@@ -2,7 +2,7 @@
 ref: fireeye
 name: fireeye
 description: FireEye CM Series Integration
-version: 0.3.1
+version: 0.3.2
 keywords:
   - security
 author: James Fryman
